@@ -31,7 +31,7 @@ func main() {
 ```
 
 ## Middleware Function
-```
+```golang
 type middlewareFunc func([]byte) error
 ```
 
